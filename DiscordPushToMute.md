@@ -1,11 +1,11 @@
-Click the cog bottom left to enter settings.
+Click the cog bottom left to enter User Settings.
 
-image
+![Cog](/PushToMute/cog.png)
 
 Click Keybinds on the left
 
-image
+![Keybind](/PushToMute/keybind.png)
 
 Set the following if V is your speak in game.
 
-image
+![Bind](/PushToMute/bind.png)
